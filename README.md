@@ -17,3 +17,4 @@ The app contains information about SpaceX rockets and a list of their launches.
 3. Network error handling
 4. Cache using SwiftData
 5. Refactoring of filtering of unsuccessful flights
+6. Add Preview
